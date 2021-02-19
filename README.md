@@ -8,3 +8,8 @@ Once the data is in a structured format, you can replicate the analysis that we 
 
 ![Screenshot](https://user-images.githubusercontent.com/50514677/108463505-19a5b480-72b1-11eb-821a-4bd24f044bb1.png)
 
+Figure 1: Map of Toronto
+
+![Screenshot](https://user-images.githubusercontent.com/50514677/108463756-815bff80-72b1-11eb-935f-9bd604e1c4fe.png)
+
+Figure 2: Map of Toronto (clustered)
